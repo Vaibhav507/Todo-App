@@ -294,6 +294,7 @@ li:last-child {
 
     .container {
         width: 100%;
+        padding: 30px 0px;
     }
 
     .main-part {
@@ -303,10 +304,12 @@ li:last-child {
 
     .container.dark {
         background-image: url(./assets/bg-desktop-dark.jpg);
+        background-size: 100%;
     }
     
     .container.white {
         background-image: url(./assets/bg-desktop-light.jpg);
+        background-size: 100%;
     }
     
 }
